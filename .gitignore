@@ -1,0 +1,12 @@
+# Ignore Firebase credentials file
+nft-sniper-85e4e-firebase-adminsdk-zocoh-754f01639f.json
+
+# Ignore environment files
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
